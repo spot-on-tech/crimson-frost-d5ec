@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "crimson-frost-d5ec",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "c45b7dbe-020d-4ebf-b3b4-f40520b1961e",
+      "database_name": "ancient-shadow-9682-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
